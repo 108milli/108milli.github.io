@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://YOUR-PROJECT.pages.dev/sitemap.xml
