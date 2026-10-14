@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://108milligram.github.io/sitemap.xml
+Sitemap: https://108milli.github.io/sitemap.xml
